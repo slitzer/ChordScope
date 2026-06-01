@@ -1,1 +1,0 @@
-# ChordScope analysis package
